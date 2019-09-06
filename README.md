@@ -8,7 +8,7 @@ Please feel free to bring your own laptop, though one will be provided should yo
 
 ## Front End Prototyping  
 
-You will be asked to build from scratch a simple webpage based on a simple UI Mockup and verbal instructions.
+You will be asked to build from scratch a simple webpage based on a UI Mockup and verbal instructions.
 You may use any CSS / JS framework you prefer, including any CLI / template generators.
 
 Topics covered may include:
